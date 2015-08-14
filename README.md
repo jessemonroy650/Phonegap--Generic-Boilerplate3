@@ -1,12 +1,11 @@
-# Phonegap-Generic-Boilerplate2
-A generic bare bones boilerplate for PhonegapApps with fastclick.js and zepto.js
+# Phonegap-Generic-Boilerplate3
+A generic boilerplate for constructing PhonegapApps with fastclick.js and zepto.js, With Android and iOS extensions
 
-**Additions vs Boilerplate**
+**Additions vs Boilerplate2**
 
-* fastclick.js - removes the 300ms click delay in Android - See: https://github.com/ftlabs/fastclick
-* zepto.js - a jquery-like helper library - See: http://zeptojs.com/
+* Added Android and iOS extensions in config.xml. Need to make usage example.
 
 More details in:
 
-https://github.com/jessemonroy650/Phonegap--Generic-Boilerplate
+https://github.com/jessemonroy650/Phonegap--Generic-Boilerplate2
 
